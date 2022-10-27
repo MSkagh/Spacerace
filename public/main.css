@@ -1,0 +1,38 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:98vw;
+    height: 98vh;
+
+}
+
+#canvas{
+    border: 1px solid black;
+    background-color: black;
+}
+
+#scoreleft{ 
+ font-size: 2rem;
+}
+
+#scoreright{
+    font-size: 2rem;
+}
+
+.scorecontainer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    width: 100px;
+    height: 550px;
+}
+
+.h1container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+   
+}
