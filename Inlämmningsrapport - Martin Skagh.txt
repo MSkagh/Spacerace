@@ -1,0 +1,32 @@
+Var det roligt att göra projektet?
+
+Ja. Jag har en förkärlek för just retro-spel, så jag, personligen, tyckte att det var roligt.
+När jag gör egna projekt så brukar det vara i linje med den här uppgiften vilket gav mig en viss fördel.
+
+---------------------------
+
+Vad har varit svårt i projektet?
+
+Inget var speciellt svårt för min del. Rent kunskapsmässigt så ligger jag på en adekvat nivå för denna uppgiften.
+Skulle jag sätta fingret på något så skulle jag nog säga att jag har svårast för att nytja mina arbetskamrater och
+specifikt få oss alla att tänka på samma sätt när det kommer till strukturen av programmet. Allt fungerade dock väl.
+Jag är bara lite ivrig med att komma igång.
+
+---------------------------
+
+Vad kunde förbättrats i projektet (kommunikation, kod, samarbete etc)?
+
+Det första som vi gjorde var att rita upp en väldigt grov skiss över projektet och uppgiften.
+Den hade vi kunnat spendera mer tid med för att få den mer precis. Vi hade kunnat dela ut uppgifter mer jämnt
+i gruppen. Som det var nu så tog vi bara tag i uppgiften allt efter som vi kände för det vilket resulterade i
+att vi ofta satt och väntade på en annan som kodade eller att alla satt med samma problem.
+I ett så litet projekt så fungerar det utmärkt, men hade nog blivit rätt stökigt i ett större projekt.
+
+---------------------------
+
+Vad gjorde ni bra? 
+Vi hade konstant en god ton och ett bra fokus kring uppgiften. Uppgiften löstes väldigt snabbt. Redan dag 2, lunchtid, så hade vi en
+1.0 version som alla var nöjda med. Vi tog eftermiddagen på dag 2 till att reflektera och titta igenom uppgiften individuellt för att
+på dag 3 ge synpunkter på om vi missat nått eller ville förfina någon detalj.
+
+---------------------------
